@@ -18,8 +18,6 @@ Power BI (DAX, Power Query)
 
 SQL (Data modeling & transformation)
 
-📂 GitHub Repository: https://github.com/yourusername/Credit_Card_Financial_Dashboard
-
 🔍 Use Cases:
 
 Bank/fintech financial monitoring
